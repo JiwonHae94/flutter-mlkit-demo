@@ -1,0 +1,4 @@
+enum DetectionMode {
+  stream,
+  single,
+}
