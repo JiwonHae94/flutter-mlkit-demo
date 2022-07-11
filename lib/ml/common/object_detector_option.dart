@@ -1,7 +1,7 @@
 import 'package:flutter_mlkit_demo/ml/object_detection.dart';
 import 'package:google_mlkit_commons/google_mlkit_commons.dart';
 
-import 'object_detection_mode.dart';
+import 'object_detector_mode.dart';
 import 'object_detector_type.dart';
 
 
